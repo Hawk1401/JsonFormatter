@@ -1,0 +1,27 @@
+[
+	{
+		"isLeaf":"false",
+		"Name":"injectioninformation",
+		"FuncName":"",
+		"child":[
+			{
+				"isLeaf":"true",
+				"Name":"Idofinjection",
+				"FuncName":"injectionIdValue",
+				"child":null
+			},
+			{
+				"isLeaf":"true",
+				"Name":"date/timeofinjection",
+				"FuncName":"timestampValue",
+				"child":null
+			},
+			{
+				"isLeaf":"true",
+				"Name":"InjectionVolume",
+				"FuncName":"InjectionVolume",
+				"child":null
+			}
+		]
+	}
+]
